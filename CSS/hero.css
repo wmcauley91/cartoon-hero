@@ -1,0 +1,36 @@
+body{
+	margin:0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: #54d6b7;
+	text-align: center;
+	padding-top: 25px;
+}
+
+h1, h2{
+	font-family: 'Indie Flower', cursive;
+}
+
+header h1{
+	color: #d15dae;
+	font-size: 50px;
+	
+}
+
+header img{
+	border-radius: 150px;
+	border: 5px solid darkslateblue;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
